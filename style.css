@@ -1,4 +1,4 @@
-.content{
+.content, .nimbleArea{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7,4 +7,8 @@
     width: 60vw;
     height: 60vh;
     border: solid 1px #000000;
+}
+.molduraServico{
+    width: 100%;
+    height: 100%;
 }
